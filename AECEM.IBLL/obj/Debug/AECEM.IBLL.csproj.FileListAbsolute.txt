@@ -1,0 +1,21 @@
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.IBLL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.IBLL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.DALEntity.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\bin\Debug\EntityFramework.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\bin\Debug\EntityFramework.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.csprojResolveAssemblyReference.cache
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.IBLL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.IBLL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.DALEntity.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\bin\Debug\EntityFramework.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\bin\Debug\AECEM.DALEntity.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\bin\Debug\EntityFramework.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.csprojResolveAssemblyReference.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.csproj.CoreCompileInputs.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.csproj.CopyComplete
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IBLL\obj\Debug\AECEM.IBLL.pdb

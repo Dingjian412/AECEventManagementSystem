@@ -1,0 +1,201 @@
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\ApplicationInsights.config
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\csc.exe
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\vbc.exe
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.Web.dll.config
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.Web.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.Web.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLLContainer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALEntity.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.IBLL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Owin.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Helpers.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Mvc.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Optimization.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Razor.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\WebGrease.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Autofac.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.IDAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALContainer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.DAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLLContainer.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALEntity.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.IBLL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Helpers.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Mvc.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Optimization.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.Razor.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\Autofac.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.IDAL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALContainer.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\bin\AECEM.DAL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.csprojResolveAssemblyReference.cache
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\ApplicationInsights.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\csc.exe
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\vbc.exe
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.Web.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.Web.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.Web.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLLContainer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALEntity.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.IBLL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Antlr3.Runtime.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.Web.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Newtonsoft.Json.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Owin.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Helpers.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Mvc.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Optimization.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Razor.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\WebGrease.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Autofac.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.IDAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALContainer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLLContainer.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALEntity.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALEntity.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.IBLL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.Web.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Helpers.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Mvc.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Optimization.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.Razor.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Antlr3.Runtime.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Newtonsoft.Json.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\Autofac.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.BLL.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.IDAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DALContainer.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\bin\AECEM.DAL.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.csprojResolveAssemblyReference.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.csproj.CoreCompileInputs.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.csproj.CopyComplete
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.Web\obj\Debug\AECEM.Web.pdb

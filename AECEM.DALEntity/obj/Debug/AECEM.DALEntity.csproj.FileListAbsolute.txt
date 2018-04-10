@@ -1,0 +1,21 @@
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\AECEM.DALEntity.dll.config
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\AECEM.DALEntity.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\obj\Debug\AECEM.DALEntity.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DALEntity\obj\Debug\AECEM.DALEntity.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\AECEM.DALEntity.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\AECEM.DALEntity.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\obj\Debug\AECEM.DALEntity.csprojResolveAssemblyReference.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\obj\Debug\AECEM.DALEntity.csproj.CoreCompileInputs.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\obj\Debug\AECEM.DALEntity.csproj.CopyComplete
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\obj\Debug\AECEM.DALEntity.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DALEntity\obj\Debug\AECEM.DALEntity.pdb

@@ -1,0 +1,43 @@
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLLContainer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLLContainer.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IBLL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\Autofac.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IDAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALEntity.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALContainer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IBLL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\Autofac.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IDAL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALContainer.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DAL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.csprojResolveAssemblyReference.cache
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLLContainer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLLContainer.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IBLL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\Autofac.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IDAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALEntity.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALContainer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.BLL.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IBLL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\Autofac.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.IDAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALEntity.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DALContainer.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\bin\Debug\AECEM.DAL.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.csprojResolveAssemblyReference.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.csproj.CoreCompileInputs.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.csproj.CopyComplete
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.BLLContainer\obj\Debug\AECEM.BLLContainer.pdb

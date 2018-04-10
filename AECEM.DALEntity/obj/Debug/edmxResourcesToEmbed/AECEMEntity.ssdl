@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="AECEventManagementModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Event">
+    <Key>
+      <PropertyRef Name="EventID" />
+    </Key>
+    <Property Name="EventID" Type="int" Nullable="false" />
+    <Property Name="EventName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="EventTime" Type="datetime" Nullable="false" />
+    <Property Name="City" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="CreatedTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EventPit">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="EventID" Type="int" Nullable="false" />
+    <Property Name="PitStopID" Type="int" Nullable="false" />
+    <Property Name="PitSequence" Type="int" Nullable="false" />
+    <Property Name="Createdtime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="EventTeam">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EventID" Type="int" Nullable="false" />
+    <Property Name="TeamID" Type="int" Nullable="false" />
+    <Property Name="CreatedTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Participant">
+    <Key>
+      <PropertyRef Name="ParticipantID" />
+    </Key>
+    <Property Name="ParticipantID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Age" Type="int" />
+    <Property Name="HP" Type="varchar" MaxLength="20" />
+    <Property Name="CreatedTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PitStop">
+    <Key>
+      <PropertyRef Name="PitStopID" />
+    </Key>
+    <Property Name="PitStopID" Type="int" Nullable="false" />
+    <Property Name="PitName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Address" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Postcode" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="Longitude" Type="geography" Nullable="false" />
+    <Property Name="Latitude" Type="geography" Nullable="false" />
+    <Property Name="CreatedTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Staff">
+    <Key>
+      <PropertyRef Name="StaffID" />
+    </Key>
+    <Property Name="StaffID" Type="int" Nullable="false" />
+    <Property Name="StaffName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreatedTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Team">
+    <Key>
+      <PropertyRef Name="TeamID" />
+    </Key>
+    <Property Name="TeamID" Type="int" Nullable="false" />
+    <Property Name="TeamName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DeviceID" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="CreatedTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TeamParticipant">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="TeamID" Type="int" Nullable="false" />
+    <Property Name="ParticipantID" Type="int" Nullable="false" />
+    <Property Name="CreatedTime" Type="datetime" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdatedTime" Type="datetime" />
+    <Property Name="UpdatedBy" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_EventPit_Event">
+    <End Role="Event" Type="Self.Event" Multiplicity="1" />
+    <End Role="EventPit" Type="Self.EventPit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Event">
+        <PropertyRef Name="EventID" />
+      </Principal>
+      <Dependent Role="EventPit">
+        <PropertyRef Name="EventID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EventPit_PitStop">
+    <End Role="PitStop" Type="Self.PitStop" Multiplicity="1" />
+    <End Role="EventPit" Type="Self.EventPit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PitStop">
+        <PropertyRef Name="PitStopID" />
+      </Principal>
+      <Dependent Role="EventPit">
+        <PropertyRef Name="PitStopID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EventTeam_Event">
+    <End Role="Event" Type="Self.Event" Multiplicity="1" />
+    <End Role="EventTeam" Type="Self.EventTeam" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Event">
+        <PropertyRef Name="EventID" />
+      </Principal>
+      <Dependent Role="EventTeam">
+        <PropertyRef Name="EventID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_EventTeam_Team">
+    <End Role="Team" Type="Self.Team" Multiplicity="1" />
+    <End Role="EventTeam" Type="Self.EventTeam" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Team">
+        <PropertyRef Name="TeamID" />
+      </Principal>
+      <Dependent Role="EventTeam">
+        <PropertyRef Name="TeamID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TeamParticipant_Participant">
+    <End Role="Participant" Type="Self.Participant" Multiplicity="1" />
+    <End Role="TeamParticipant" Type="Self.TeamParticipant" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Participant">
+        <PropertyRef Name="ParticipantID" />
+      </Principal>
+      <Dependent Role="TeamParticipant">
+        <PropertyRef Name="ParticipantID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TeamParticipant_Team">
+    <End Role="Team" Type="Self.Team" Multiplicity="1" />
+    <End Role="TeamParticipant" Type="Self.TeamParticipant" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Team">
+        <PropertyRef Name="TeamID" />
+      </Principal>
+      <Dependent Role="TeamParticipant">
+        <PropertyRef Name="TeamID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="AECEventManagementModelStoreContainer">
+    <EntitySet Name="Event" EntityType="Self.Event" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventPit" EntityType="Self.EventPit" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EventTeam" EntityType="Self.EventTeam" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Participant" EntityType="Self.Participant" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PitStop" EntityType="Self.PitStop" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Staff" EntityType="Self.Staff" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Team" EntityType="Self.Team" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TeamParticipant" EntityType="Self.TeamParticipant" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_EventPit_Event" Association="Self.FK_EventPit_Event">
+      <End Role="Event" EntitySet="Event" />
+      <End Role="EventPit" EntitySet="EventPit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EventPit_PitStop" Association="Self.FK_EventPit_PitStop">
+      <End Role="PitStop" EntitySet="PitStop" />
+      <End Role="EventPit" EntitySet="EventPit" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EventTeam_Event" Association="Self.FK_EventTeam_Event">
+      <End Role="Event" EntitySet="Event" />
+      <End Role="EventTeam" EntitySet="EventTeam" />
+    </AssociationSet>
+    <AssociationSet Name="FK_EventTeam_Team" Association="Self.FK_EventTeam_Team">
+      <End Role="Team" EntitySet="Team" />
+      <End Role="EventTeam" EntitySet="EventTeam" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TeamParticipant_Participant" Association="Self.FK_TeamParticipant_Participant">
+      <End Role="Participant" EntitySet="Participant" />
+      <End Role="TeamParticipant" EntitySet="TeamParticipant" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TeamParticipant_Team" Association="Self.FK_TeamParticipant_Team">
+      <End Role="Team" EntitySet="Team" />
+      <End Role="TeamParticipant" EntitySet="TeamParticipant" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

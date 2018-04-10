@@ -1,0 +1,21 @@
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.IDAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.IDAL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.DALEntity.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\bin\Debug\EntityFramework.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\bin\Debug\EntityFramework.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.IDAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.IDAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.DALEntity.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\bin\Debug\EntityFramework.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\bin\Debug\AECEM.DALEntity.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\bin\Debug\EntityFramework.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.csproj.CoreCompileInputs.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.csproj.CopyComplete
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.IDAL\obj\Debug\AECEM.IDAL.pdb

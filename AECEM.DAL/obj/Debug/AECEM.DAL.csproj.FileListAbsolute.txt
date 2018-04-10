@@ -1,0 +1,31 @@
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DAL.dll.config
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DAL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DALEntity.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.IDAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.IDAL.pdb
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.dll
+C:\Users\Ding\documents\visual studio 2015\Projects\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DAL.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DALEntity.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.IDAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DALEntity.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.DALEntity.dll.config
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\AECEM.IDAL.pdb
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.csprojResolveAssemblyReference.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.csproj.CopyComplete
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.dll
+C:\Users\dingjian\source\repos\AECEventManagementSystem\AECEM.DAL\obj\Debug\AECEM.DAL.pdb

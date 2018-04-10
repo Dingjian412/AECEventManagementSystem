@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="34c695661d85476795e8d2db816c4012" Name="Diagram1">
+        <EntityTypeShape EntityType="AECEventManagementModel.Event" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AECEventManagementModel.EventPit" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AECEventManagementModel.EventTeam" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AECEventManagementModel.Participant" Width="1.5" PointX="3.75" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AECEventManagementModel.PitStop" Width="1.5" PointX="3.75" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="AECEventManagementModel.Staff" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="AECEventManagementModel.Team" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="AECEventManagementModel.TeamParticipant" Width="1.5" PointX="6" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="AECEventManagementModel.FK_EventPit_Event" ManuallyRouted="false" />
+        <AssociationConnector Association="AECEventManagementModel.FK_EventTeam_Event" ManuallyRouted="false" />
+        <AssociationConnector Association="AECEventManagementModel.FK_EventPit_PitStop" ManuallyRouted="false" />
+        <AssociationConnector Association="AECEventManagementModel.FK_EventTeam_Team" ManuallyRouted="false" />
+        <AssociationConnector Association="AECEventManagementModel.FK_TeamParticipant_Participant" ManuallyRouted="false" />
+        <AssociationConnector Association="AECEventManagementModel.FK_TeamParticipant_Team" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
